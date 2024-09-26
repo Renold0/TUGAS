@@ -16,4 +16,5 @@ if (!empty($hobi)) {
 } else {
     echo "Hobi : Tidak ada hobi yang dipilih<br>";
 }
+echo "hello world";
 ?>
